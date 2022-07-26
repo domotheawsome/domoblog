@@ -1,4 +1,4 @@
-# Ariel's Blog
+# My Blog
 
 Hashing out all of my tech and non-tech ramblings.
 
