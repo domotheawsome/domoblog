@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "postinstall": "hugo-installer --version 0.82.0"
-  },
-  "devDependencies": {
-    "hugo-installer": "^3.1.0"
-  }
-}
