@@ -48,6 +48,8 @@ tocopen = false
 
   [params.label]
   text = "Home"
+  identifier = "Home"
+  name = "Home"
   url = "/"
   icon = "/apple-touch-icon.png"
   iconHeight = 35
