@@ -1,4 +1,4 @@
-baseURL = "domoblog.netlify.app"
+baseURL = "https://domoblog.netlify.app"
 title = "Ariel's Blog"
 paginate = 5
 theme = "PaperMod"
